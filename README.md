@@ -49,7 +49,7 @@ https://reqres.in
 
 ### Login username and password
 
-email: eve.holt@reqres.in
+email: eve.holt@reqres.in <br>
 password: cityslicka
 
 ### :memo: License
