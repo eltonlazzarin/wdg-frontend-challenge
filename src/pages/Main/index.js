@@ -49,7 +49,9 @@ export default class Main extends Component {
   };
 
   nextPage = () => {
-    const { page } = this.state;
+    const { page, pageInfo } = this.state;
+
+    if (page === pageInfo.total_pages) return;
 
     const pageNumber = page + 1;
 
@@ -77,7 +79,7 @@ export default class Main extends Component {
             <button disabled={page === 1} onClick={this.prevPage}>
               Previous
             </button>
-            <button disabled={page === pageInfo.pages} onClick={this.nextPage}>
+            <button disabled={page === pageInfo.total_pages} onClick={this.nextPage}>
               Next
             </button>
           </div>
