@@ -43,6 +43,15 @@ $ yarn
 $ yarn start
 ```
 
+### API used for this project
+
+https://reqres.in
+
+### Login username and password
+
+email: eve.holt@reqres.in
+password: cityslicka
+
 ### :memo: License
 
 This project is under the MIT license.
