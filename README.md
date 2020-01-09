@@ -16,12 +16,7 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/wdg-frontend-challenge">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/wdg-frontend-challenge">
-
 ### :rocket: Frontend Technologies (WebApp)
-
-<p align="center">
-  <button><a href="https://github-search-repo-app.netlify.com/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
 
 - [ReactJS](https://reactjs.org/)
 - [React Router v5](https://github.com/ReactTraining/react-router)
