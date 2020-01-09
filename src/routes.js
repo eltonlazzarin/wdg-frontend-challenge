@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
+import { HashRouter, Switch, Route, Redirect } from 'react-router-dom';
 
 import Login from './pages/Login';
 import Main from './pages/Main';
@@ -8,7 +8,7 @@ import Pagina404 from './pages/Pagina404';
 
 export default function Routes() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Switch>
         <Redirect exact from='/' to='/login' />
         <Route path='/login' component={Login} />
@@ -16,6 +16,6 @@ export default function Routes() {
         <Route path='/user/:id' component={EditUser} />
         <Route path='*' component={Pagina404} />
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
