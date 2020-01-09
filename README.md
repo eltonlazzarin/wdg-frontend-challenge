@@ -1,8 +1,8 @@
-<h1 align="center">
+<h2 align="center">
     <img alt="" src="" />
     <br>
     Project that consumes a fake API simulating user editing and deletion
-</h1>
+</h2>
 
 <h4 align="center">
   This is a simple project that consumes a fake API showing all users included, in addition to simulating editing, deleting these data
