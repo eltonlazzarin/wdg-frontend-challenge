@@ -49,9 +49,7 @@ export default class Main extends Component {
   };
 
   nextPage = () => {
-    const { page, pageInfo } = this.state;
-
-    if (page === pageInfo.total_pages) return;
+    const { page } = this.state;
 
     const pageNumber = page + 1;
 
