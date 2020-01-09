@@ -18,6 +18,8 @@
 
 ### :rocket: Frontend Technologies (WebApp)
 
+<img alt="Github Search Page" src="https://github.com/eltonlazzarin/wdg-frontend-challenge/blob/master/src/screenshots/projectPages.gif">
+
 - [ReactJS](https://reactjs.org/)
 - [React Router v5](https://github.com/ReactTraining/react-router)
 - [styled-components](https://www.styled-components.com/)
