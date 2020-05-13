@@ -16,7 +16,7 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/wdg-frontend-challenge">
 
-### :rocket: Frontend Technologies (WebApp)
+## :rocket: Frontend Technologies (WebApp)
 
 <img alt="Github Search Page" src="https://github.com/eltonlazzarin/wdg-frontend-challenge/blob/master/src/screenshots/projectPages.gif">
 
