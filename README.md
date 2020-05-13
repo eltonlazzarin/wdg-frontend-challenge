@@ -52,7 +52,7 @@ https://reqres.in
 email: eve.holt@reqres.in <br>
 password: cityslicka
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license.
 ---
